@@ -1,0 +1,7 @@
+---
+title: "Tema 12. Casos prácticos en genética"
+bibliography: references.bib
+---
+
+En las sesiones dedicadas a los casos prácticos en genética, trabajaremos con dos tipos de datos que nos ofrecen la oportunidad de relacionar datos tabulados de dos o más tablas. En el ejercicio 1 combinaremos una multitud de resultados en un solo archivo final. En el ejercicio 2, el objetivo es preparar los datos para un análisis de enriquecimiento de conjuntos génicos (GSEA, por sus siglas en inglés).
+

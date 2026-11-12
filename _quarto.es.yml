@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  site-url: https://example.com
+  title: "Tema 12. Casos prácticos en genética"
+  page-navigation: true
+  sidebar:
+    style: docked
+    contents:
+      - text: 'Curso'
+        href: https://www.uv.es/monpauja/curso/index.html
+      - section: 'Ejercicios'
+        contents:
+          - exercici1.es.qmd
+          - exercici2.es.qmd
+
+format:
+  html:
+    theme:
+      - flatly
+    toc: true
+    code-copy: false
+    highlight-style: github

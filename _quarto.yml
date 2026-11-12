@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  site-url: https://www.uv.es/joiglu/curso
+  title: "Tema 12. Casos pràctics en genètica"
+  page-navigation: true
+  sidebar:
+    style: docked
+    contents:
+      - text: 'Enllaç als materials del curs'
+        href: https://www.uv.es/monpauja/curso/index.html
+      - section: 'Exercicis'
+        contents:
+          - exercici1.qmd
+          - exercici2.qmd
+
+format:
+  html:
+    theme:
+      - flatly
+    toc: true
+    code-copy: false
+    highlight-style: github
+
+babelquarto:
+  languagelinks: sidebar
+  languagecodes:
+  - name: es
+    text: "Castellano"
+  - name: en
+    text: "English"
+  - name: ca
+    text: "Valencià"
+  mainlanguage: 'ca'
+  languages: ['es', 'en']
+title-es: Tema 12. Casos prácticos en genética
+title-en: Lesson 12. Case study in genetics
+lang: ca
+

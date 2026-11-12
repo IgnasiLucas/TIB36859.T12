@@ -1,0 +1,7 @@
+---
+title: "2. Combination of co-GWAS results"
+format: html
+bibliography: references.bib
+---
+
+Sorry, not translated yet to English.

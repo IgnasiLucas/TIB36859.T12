@@ -1,0 +1,7 @@
+---
+title: "Tema 12. Casos pràctics en genètica"
+bibliography: references.bib
+---
+
+En les sessions dedicades als casos pràctics en genètica, treballarem amb dos tipus de dades que ens oferixen l'oportunitat de relacionar dades tabulades de dos o més arxius. En l'exercici 1, combinarem una multitud de resultats en un únic arxiu final. En l'exercici 2, l'objectiu és preparar les dades per una anàlisi d'enriquiment de conjunts gènics (GSEA, per les seues sigles en anglés).
+
