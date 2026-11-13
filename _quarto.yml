@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: https://www.uv.es/joiglu/curso
+  site-url: "https://www.uv.es/joiglu/curso"
   title: "Tema 12. Casos pràctics en genètica"
   page-navigation: true
   sidebar:
